@@ -1,3 +1,2 @@
 # Programs
-C++ Programs
-A collaboration of labs from the class I am currently in (Data Structures)
+A collaboration of labs from the class my Data Structures class.
